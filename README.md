@@ -3,7 +3,7 @@
 ### MACHINE LEARNING PROJECTS
 |NAME OF PROJECT | TECHNOLOGY USED | LINK TO THE PROJECT |
 |:-------------------|:---------------:|:--------------------:|
-|REAL ESTATE PRICE PREDICTION |  Linear Regression, Grid Search CV | [Repository](https://cutt.ly/eneivMm "Click here"), [Demo](https://cutt.ly/eneivMm "Click here")|
+|REAL ESTATE PRICE PREDICTION |  Linear Regression, Grid Search CV | [Repository](https://cutt.ly/eneivMm "Click here"), [Demo](https://cutt.ly/Xng8Pba "Click here")|
 |SHARK CLASSIFIER |  Haar cascade, Wavelet transform, SVM, Grid Search CV  | [Repository](https://cutt.ly/sneadPJ "Click here"), [Demo](https://www.linkedin.com/posts/hrishikesh-helge-b0b333203_hello-everyone-i-am-very-excited-to-share-activity-6803617938403323904-C4Us "Click here")|
 |DIABETES PREDICTION |  Random Forest, Grid Search CV  | [Repository](https://cutt.ly/cneaY6R "Click here"), [Web app](https://cutt.ly/ontsiiA "Click here")|
 |RESALE CAR PRICE PREDICTION |  Random Forest, Randomized Search CV  | [Repository](https://cutt.ly/Unea3zW "Click here"), [Web app](https://cutt.ly/gntsz9p "Click here")|
