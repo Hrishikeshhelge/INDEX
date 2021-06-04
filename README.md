@@ -25,6 +25,10 @@
 |HANDWRITTEN DIGIT CLASSIFICATION |  Simple Neural Network | [Repository](https://cutt.ly/dngnwaF "Click here")|
 |CUSTOMER CHURN PREDICTION |  Artificial neural network | [Repository](https://cutt.ly/aneR2A3 "Click here")|
 
+### [THE SPARKS FOUNDATION INTERNSHIP](https://cutt.ly/1ncI0eM "Click here") <-- Click Here
+
+
+
 ### EXERCISES
 
 * [PANDAS](https://cutt.ly/nneTCwc "Click here")
